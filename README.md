@@ -6,4 +6,4 @@ For making the Server for the project, the project can be made in the way that i
 •	The Service Implementation 
 •	The Person POJO Class 
 •	The SOAP Fault 
-•	The Publishe.
+•	The Publisher.
