@@ -17,6 +17,7 @@ File --> New -->Project --> Maven --> Choosing the name of the project and Group
  wsimport -d src/main/java -p com.soen487.t05.client –keep http://localhost:8088/WebServiceDemo/Welcome?wsdl
  # Soap UI Testing
 To test with SoapUI, run the program and click on new SOAP project. While ServicePublisher is still running, enter a project name and copy the WSDL url in the initial WSDL field.
+
 ![image](https://user-images.githubusercontent.com/63208813/108148756-7a5da300-709f-11eb-8663-2315a574a368.png)
 
 
